@@ -1,0 +1,26 @@
+1.Sql-command
+2.keys
+3.Codd's rule
+4.Normalization
+
+
+1.Sql-Command
+  i)DDL
+    ---Create
+	---Alter
+	     a)add
+		 b)drop
+		 c)change
+	---Drop
+	---Truncate
+   ii)DML
+    ---Insert
+	---salect
+	---delete
+	---update/modify
+	
+	
+	
+	
+	
+	[delete table="table" set Fieldname="fname" where id=3] 
